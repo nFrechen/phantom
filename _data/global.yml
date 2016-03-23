@@ -1,7 +1,7 @@
 # Site Settings
 title: "Hello. I'm Jami Gibbs."
 description: "Entdecken Sie mit uns, was in Ihren Daten steckt! <br/> nStatistics unterstütz Sie bei der Auswertung – von der statistischen Verarbeitung und visuelle Aufbereitung bis hin zur Einbindung in interaktive Web-Apps oder dynamisch generierte Dokumente."
-url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
+url: 'http://nfrechen.github.io/phantom' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2016 nStatistics'
 twitter: 'nDimensional'
