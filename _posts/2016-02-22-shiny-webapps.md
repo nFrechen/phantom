@@ -2,7 +2,6 @@
 layout: inner
 position: left
 title: 'Web-Apps'
-date: 2016-02-22 16:15:00
 categories:
 tags: R Shiny
 featured_image: 'img/posts/shiny-app.png'

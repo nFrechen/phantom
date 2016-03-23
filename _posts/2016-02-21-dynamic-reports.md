@@ -2,7 +2,6 @@
 layout: inner
 position: right
 title: 'Dynamische Dokumente'
-date: 2016-02-21 14:15:00
 categories: development
 tags:
 featured_image: 'img/posts/knitr.png'

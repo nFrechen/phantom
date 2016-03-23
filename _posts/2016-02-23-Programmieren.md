@@ -2,7 +2,6 @@
 layout: inner
 position: right
 title: 'Lassen Sie uns programmieren'
-date: 2016-02-22 14:15:00
 categories: development
 tags:
 featured_image: 'img/posts/programmieren.png'
