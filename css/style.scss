@@ -108,7 +108,7 @@ button.btn, input.btn {
 	2.0 Home Hero
 --------------------------------------------------------------*/
 .hero-container {
-  margin: 10em 0 9em 0;
+  margin: 8em 0 4em 0;
   @include bp-xsmall {
     margin: 5em 0 5em 0;
   }
@@ -118,7 +118,7 @@ button.btn, input.btn {
 }
 
 .hero-content {
-  width: 60%;
+  width: 80%;
   margin: 0 auto;
   display: table;
   @include bp-medium {
@@ -134,7 +134,7 @@ button.btn, input.btn {
     font-size: 48px;
   }
   p {
-    margin: 2em 0 4em 0;
+    margin: 1em 0 1em 0;
   }
   .hero-buttons {
     margin: 0 auto;
@@ -202,7 +202,7 @@ button.btn, input.btn {
 	3.0 Posts
 --------------------------------------------------------------*/
 #portfolio .container {
-  margin-top: 10em;
+  margin-top: 0em;
   @include bp-xsmall {
     margin-top: 2em;
   }
@@ -244,7 +244,7 @@ button.btn, input.btn {
 }
 
 .content-wrap {
-  margin-bottom: 8em;
+  margin-bottom: 3em;
   @include bp-xsmall {
     margin-bottom: 2em;
   }
@@ -253,10 +253,10 @@ button.btn, input.btn {
   }
   img.img-responsive {
     @include bp-xsmall {
-      display: none;
+      //display: none;
     }
     @include bp-small {
-      display: none;
+      //display: none;
     }
   }
   .content {
@@ -331,4 +331,24 @@ button.btn, input.btn {
       float: none;
     }
   }
+}
+
+/*-------- Nanu's changes --------------*/
+.logo-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  //width: 50%;
+}
+.logo-center img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+
+.hero-right{
+  //float: right;
+  width: 50%;
 }

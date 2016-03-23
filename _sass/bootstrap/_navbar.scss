@@ -166,6 +166,7 @@
   font-size: $font-size-large;
   line-height: $line-height-computed;
   height: $navbar-height;
+  font-weight: bold;
 
   &:hover,
   &:focus {
@@ -174,6 +175,7 @@
 
   > img {
     display: block;
+    height:23px;
   }
 
   @media (min-width: $grid-float-breakpoint) {
@@ -184,6 +186,12 @@
   }
 }
 
+.navbar-brand-addition{
+  font-weight: 600;
+  //font-size: 12pt;
+  vertical-align: bottom;
+
+}
 
 // Navbar toggle
 //
@@ -534,6 +542,7 @@
 
   .navbar-brand {
     color: $navbar-inverse-brand-color;
+    font-weight: bold;
     &:hover,
     &:focus {
       color: $navbar-inverse-brand-hover-color;
