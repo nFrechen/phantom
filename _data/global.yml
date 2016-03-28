@@ -1,7 +1,7 @@
 # Site Settings
 title: "nStatistics"
 description: "Entdecken Sie mit uns, was in Ihren Daten steckt! <br/> nStatistics unterstützt Sie bei der Auswertung – von der statistischen Verarbeitung und visuellen Aufbereitung bis hin zur Einbindung in interaktive Web-Apps oder dynamisch generierte Dokumente."
-url: 'http://n-dim.de/phantom/' # the base hostname & protocol for your site
+url: 'http://n-statistics.de' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2016 nStatistics'
 twitter: 'nDimensional'
